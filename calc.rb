@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+
 def subtraction(num1,num2)
   return "#{num1-num2}"
 end
 
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 
 def division(num1,num2)
@@ -14,9 +12,7 @@ def division(num1,num2)
 
 
 
-=======
-=======
->>>>>>> de47db1c805fc4c6d8e30a1d13b3aa047760e8b3
+
 def power(numbers)
   total_product=0
   first_time=true
