@@ -1,3 +1,7 @@
+def subtraction(num1,num2)
+  return "#{num1-num2}"
+end
+
 def power(numbers)
   total_product=0
   first_time=true
